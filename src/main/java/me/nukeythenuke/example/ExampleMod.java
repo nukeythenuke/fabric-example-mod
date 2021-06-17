@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package me.nukeythenuke.example;
 
 import net.fabricmc.api.ModInitializer;
 
